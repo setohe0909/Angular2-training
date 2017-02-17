@@ -28,4 +28,4 @@ Run `ng test` to execute the unit tests.
 
 ## Developers
 
-*César Alejandro Meza <cealmees@outlook.com>
+* César Alejandro Meza <cealmees@outlook.com>
